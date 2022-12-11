@@ -1,6 +1,4 @@
 <html>
-    <head><link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Caveat&family=Comfortaa:wght@300&family=Pangolin&family=Poiret+One&display=swap"rel="stylesheet"></head>
-
     <body style="background: #ccb2b4;"> 
         <header style="background-color: #000804;">
             <div class="header1">
@@ -20,7 +18,10 @@
         <main>
             <div id="1" class="layer1">Делаем макарон на заказ</div>
             <div class="layer2">
-                <img src="https://drive.google.com/uc?export=view&id=1LVvpmXqBuYvxwomDkHgoP7dqzHTe9DPo" width="220px" height="300px"/>
+                <img src="https://drive.google.com/uc?export=view&id=1m1yXHDbB7BfQoZew2Dg_O1IEcrUBwhSR" width="400px" height="450px"/>
+            </div>
+            <div class="layer3">
+            <img src="https://drive.google.com/uc?export=view&id=1I1CBXGF22E23-w2X6HzQaw2IzKTsXgUH"/>
             </div>
         </main>
         <footer>
@@ -35,7 +36,7 @@
         .footer1 {
         color: white;
         position: absolute;
-        top: 560px;
+        top: 1200px;
         font-family: Pangolin;
         }
         .h1 {
@@ -86,12 +87,12 @@
         background-color: #e0b2b4;
         padding: 0.01px;
         float: left;
-        width: 270px;
-        height: 300px;
+        width: 380px;
+        height: 450px;
         color: white;
         text-align: center;
-        font-size: 50px;
-        font-family: Bad Script;
+        font-size: 75px;
+        font-family: Pangolin;
         border-radius: 15px 0px 0px 15px;
         position: absolute;
         top: 250px;
@@ -100,12 +101,24 @@
         background-color: #ffffff;
         padding: 0.01px;
         float: left;
-        width: 220px;
-        height: 300px;
+        width: 400px;
+        height: 450px;
         border-radius: 0px 15px 15px 0px;
         position: absolute;
-        left: 270px;
+        left: 380px;
         top: 250px;
         }
+        .layer3 {
+        background-color: #ffffff;
+        padding: 0.01px;
+        float: left;
+        width: 400px;
+        height: 450px;
+        position: absolute;
+        border-radius: 15px 15px 15px 15px;
+        left: 0px;
+        top: 750px;
+        }
     </style>
+<link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Caveat&family=Comfortaa:wght@300&family=Pangolin&family=Poiret+One&display=swap"rel="stylesheet">
 </html>
