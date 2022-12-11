@@ -24,12 +24,20 @@
             </div>
         </main>
         <footer>
-            <p id="2">Город Праздничный, улица Голодная, дом 15</p>
+            <div class="footer1">
+                <p id="2">Город Праздничный, улица Голодная, дом 15</p>
+            </div>
         </footer>
     </body>
 
 
     <style>
+        .footer1 {
+        color: white;
+        position: absolute;
+        top: 560px;
+        font-family: Pangolin;
+        }
         .h1 {
         position: absolute;
         top: 125px;
